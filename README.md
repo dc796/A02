@@ -16,13 +16,13 @@ Goal: is to create a GitHub repository named A02, and learn how to use Git, Webs
 
 # Part 1: Using Webstorm + Git + GitHub
 
-## A. Create a GitHub account and repository
+## A. Create a GitHub account and repository examples
 
 1. Go to https://github.com and sign up for an account.
 2. Log in. In the upper right corner and click on the + icon for New repository.
-3. Repository name: A02
+3. Repository name: A02 (It can be any name depending on the situation)
 4. Choose public
-5. Click on Create **repository**. You will get the link, e.g., https://github.com/yourUCID/A02. Save it, then send the link to others.
+5. Click on Create **repository**. You will get the link, e.g., https://github.com/yourUCID/A02. (Or your username) Save it, then send the link to others.
 
 ## B. Install Webstorm and Git
 1. Download and install WebStorm from JetBrains.
@@ -39,8 +39,6 @@ Goal: is to create a GitHub repository named A02, and learn how to use Git, Webs
 5. Makes Files/changes. In the **Commit** window, stage files and write a clear commit message. Click **Commit**
 6. To add a remote, VCS --> Git --> Remotes and add origin with your repo URL (e.g., https://Github.com/yourUCID/A02.git)
 7. Use Push to send commits to GitHub. Use Pull to fetch and merge remote changes locally.
-
-
 
 
 # Part 2 - Glossary
@@ -61,12 +59,12 @@ Goal: is to create a GitHub repository named A02, and learn how to use Git, Webs
 
 * **Merge Conflict** - A situation where Git cannot automatically combine changes from two commits because the same lines/files were edited differently and require a resolution. 
 
-* **Push** - Upload a local commits to a remote repository 
+* **Push** - Upload a local commit to a remote repository 
 
-* **Pull** - Fetch changes from a remote and automatically merges them into your current batch. 
+* **Pull** - Fetch changes from a remote and automatically merge them into your current batch. 
 
-* **Remote** - A reference to a repository hosted elsewhere is usually the Github repo.
+* **Remote** - A reference to a repository hosted elsewhere is usually the GitHub repo.
 
-* **Repository** - A project container that holds files, folders, and the netire commit history. 
+* **Repository** - A project container that holds files, folders, and the entire commit history. 
 
 
