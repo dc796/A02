@@ -2,8 +2,6 @@
 
 Goal: is to create a GitHub repository named A02, and learn how to use Git, Webstorm, and GitHub.
 
-My repository link, for example: https://github.com/dc796/A02 
-
 
 ## Prerequisites (On what you need to install)
 1. Webstorm (IDE): download from JetBrains.
