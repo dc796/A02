@@ -71,3 +71,11 @@ Goal: is to create a GitHub repository named A02, and learn how to use Git, Webs
 * **Repository** - A project container that holds files, folders, and the entire commit history. 
 
 
+# Citations/References
+* Jet Brains - WebStorm download: https://www.jetbrains.com/webstorm/download/?section=windows
+* Jet Brains - WebStorm (Getting Started): https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html 
+* Git - https://git-scm.com/downloads
+* GitHub Docs (Getting Started) - https://docs.github.com/en/get-started/git-basics/set-up-git
+* GitHub Docs (Revolving Merges)- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github 
+* GitHub Docs (Making a repository) - https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+* 
