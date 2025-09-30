@@ -24,7 +24,7 @@ Goal: is to create a GitHub repository named A02, and learn how to use Git, Webs
 4. Choose public
 5. Click on Create **repository**. You will get the link, e.g., https://github.com/yourUCID/A02. (Or your username) Save it, then send the link to others.
 
-## B. Install Webstorm, Git, and link accounts to WebStorm.
+## B. Install WebStorm, Git, and link accounts to WebStorm.
 1. Download and install WebStorm from JetBrains.
    https://www.jetbrains.com/webstorm/download/download-thanks.html
 2. Download and install **GIT** from https://git-scm.com/downloads. After installing it, open up the terminal to check the version.
@@ -34,7 +34,7 @@ Goal: is to create a GitHub repository named A02, and learn how to use Git, Webs
 
 
 ##  Workflows
-### workflow - using Webstorm
+### Workflow - using Webstorm
 1. Open up WebStorm
 2. File --> New Project --> choose a project type or file --> Open to open an existing folder.
 3. Enable Version Control: VCS --> Enable Version Control Integrations --> Choose GIT.
